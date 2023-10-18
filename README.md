@@ -100,7 +100,7 @@ Une plateforme e-commerce moderne construite avec Laravel, proposant un design r
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/yourusername/ecommerce.git
+git clone https://github.com/hatemslimani/e-commerce
 cd ecommerce
 ```
 
